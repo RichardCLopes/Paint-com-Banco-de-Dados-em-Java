@@ -1,0 +1,5 @@
+ comando =
+            new MeuPreparedStatement (
+            "com.microsoft.sqlserver.jdbc.SQLServerDriver",
+            "jdbc:sqlserver://DESKTOP-L83NG6O\\SQLEXPRESS;databasename=master",
+            "rlopes","lopes123");
